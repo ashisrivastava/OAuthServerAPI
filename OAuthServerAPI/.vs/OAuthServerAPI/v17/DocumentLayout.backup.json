@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\model\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\model\\clientstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|c:\\ashishs\\study\\ashish-github\\oauthserverapi\\oauthserverapi\\oauthserverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9504EA3-3175-4B23-B8F7-74D67359B592}|OAuthServerAPI\\OAuthServerAPI.csproj|solutionrelative:oauthserverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\TokenService.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\TokenService.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\TokenService.cs",
+              "RelativeToolTip": "OAuthServerAPI\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:37:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientStore.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Model\\ClientStore.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Model\\ClientStore.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Model\\ClientStore.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Model\\ClientStore.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:36:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Model\\Models.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Model\\Models.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Model\\Models.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Model\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:35:06.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:33:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:33:00.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Startup.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Startup.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:31:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\Program.cs",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\Program.cs",
+              "RelativeToolTip": "OAuthServerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:29:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OAuthServerAPI\\appsettings.json",
+              "ToolTip": "C:\\AshishS\\Study\\Ashish-GITHub\\OAuthServerAPI\\OAuthServerAPI\\OAuthServerAPI\\appsettings.json",
+              "RelativeToolTip": "OAuthServerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T19:24:42.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

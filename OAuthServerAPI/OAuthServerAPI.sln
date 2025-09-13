@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthServerAPI", "OAuthServerAPI\OAuthServerAPI.csproj", "{B9504EA3-3175-4B23-B8F7-74D67359B592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9504EA3-3175-4B23-B8F7-74D67359B592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9504EA3-3175-4B23-B8F7-74D67359B592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9504EA3-3175-4B23-B8F7-74D67359B592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9504EA3-3175-4B23-B8F7-74D67359B592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52612888-61DE-43A5-8792-A11E6C4E2A4C}
+	EndGlobalSection
+EndGlobal
